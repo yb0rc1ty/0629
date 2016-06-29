@@ -1,9 +1,9 @@
 {
-  "appname": "XXXXX",
-  "ocscope": "BuyerReader",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXX",
-  "buyerid": "XXXXX",
-  "environment": "prod",
+  "appname": "0628",
+  "ocscope": "FullAccess ProductReader BuyerAdmin BuyerReader",
+  "clientid": "E029A4B3-9CD3-4F4B-A698-99E429144FDA",
+  "buyerid": "Buyer01",
+  "environment": "test",
   "base": {
     "left":true,
     "right":false,
